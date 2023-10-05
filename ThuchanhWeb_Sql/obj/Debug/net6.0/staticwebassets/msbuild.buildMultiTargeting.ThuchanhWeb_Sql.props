@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ThuchanhWeb_Sql.props" />
+</Project>
